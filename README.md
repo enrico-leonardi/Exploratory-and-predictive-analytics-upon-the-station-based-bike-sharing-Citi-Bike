@@ -1,4 +1,4 @@
-# Project Challenge: Exploratory and predictive analytics upon the station-based bike sharing Citi Bike (NYC, 2018)
+# Exploratory and predictive analytics upon the station-based bike sharing Citi Bike (NYC, 2018)
 
 ## Project Contributers
 Enrico Leonardi (s222721), Clara Sorre (s232764), Yunxuan Li (s232900)
@@ -13,4 +13,4 @@ We worked with a dataset obtained through **Citi Bike (New York)**, one of the b
 The challenge dealt with clustering the stations spatially and building a prediction model that, at the end of a day, allows to predict what the demand for a cluster of stations will be over the next 24 hours.
 
 ## Usage
-The data analysis result will be presented by running the notebook titled "Enrico_Clara_Yunxuan.ipynb".
+The data analysis result will be presented by running the Jupyter Notebook titled "Enrico_Clara_Yunxuan.ipynb".
