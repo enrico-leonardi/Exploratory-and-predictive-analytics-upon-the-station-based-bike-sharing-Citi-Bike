@@ -1,7 +1,11 @@
 # Exploratory and predictive analytics upon the station-based bike sharing Citi Bike (NYC, 2018)
 
 ## Project Contributers
-Enrico Leonardi (s222721), Clara Sorre (s232764), Yunxuan Li (s232900)
+<ul>
+  <li>Enrico Leonardi (s222721)</li>
+  <li>Clara Sorre (s232764)</li>
+  <li>Yunxuan Li (s232900)</li>
+</ul>
 
 ## Description:
 The topic of this year's challenge has been **mobility**. At a time when the world is facing unprecedented challenges of different kinds, including climate change, pandemics, social inequality, and degrading biodiversity, sharing mobility services offer and emission-free mobility option that is both efficient and attractive. In this project, we have been asked to use our best Data Sciences skills to help operators to manage their fleet, providing better a service and enhancing their business model.
